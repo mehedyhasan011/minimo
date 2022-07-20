@@ -1,2 +1,6 @@
 # minimo
-PSD to html project. Minimo is an online news portal design.
+PSD to html project. Minimo is based on a design of an online news portal.
+
+
+link
+
